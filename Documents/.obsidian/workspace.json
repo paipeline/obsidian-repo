@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "00c127b4241b1b17",
@@ -148,6 +148,7 @@
   },
   "active": "1d848bc8cfd9d15d",
   "lastOpenFiles": [
-    "Readme.md"
+    "Readme.md",
+    "cs524"
   ]
 }
