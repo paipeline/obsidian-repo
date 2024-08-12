@@ -7,3 +7,4 @@ this class listen to the gitlab's udpate, if there are new stuff been pushed, co
 	if Unsupported event type: 400
 
 - Logging:
+	- 
