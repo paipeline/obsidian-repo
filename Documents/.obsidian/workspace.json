@@ -36,18 +36,22 @@
                     "type": "integrated",
                     "useWin32Conhost": true
                   },
-                  "serial": null
+                  "serial": {
+                    "columns": 87,
+                    "data": "/Users/a23675/.zshrc:19: no such file or directory: /opt/homebrew/bin/hyper\r\n/Users/a23675/.zshrc:20: no such file or directory: /opt/homebrew/bin/hyper\r\n/Users/a23675/.zshrc:21: no such file or directory: /opt/homebrew/bin/hyper\r\n(base) a23675@MacBook-Air-3 Documents % ",
+                    "rows": 40
+                  }
                 }
               }
             }
           },
           {
-            "id": "03a4776b6d03bc90",
+            "id": "d6fbd271e83df9c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs524.md",
+                "file": "codereviewer/log organization.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,14 +63,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raman Spectrum Diagrams.md",
+                "file": "codereviewer/codereviewer final.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce46d11c620b93a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "codereviewer/TODO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raman Spectrum Diagrams.md",
+                "file": "codereviewer/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raman Spectrum Diagrams.md",
+                "file": "codereviewer/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raman Spectrum Diagrams.md"
+                "file": "codereviewer/TODO.md"
               }
             }
           },
@@ -212,12 +228,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "670de31ebbcb2124",
+  "active": "ce46d11c620b93a6",
   "lastOpenFiles": [
+    "codereviewer/codereviewer final.md",
+    "codereviewer/TODO.md",
+    "codereviewer/log organization.md",
+    "codereviewer/webhooks_listener.py.md",
     "AI2AI Demo.md",
+    "codereviewer",
+    "Raman Spectrum Diagrams.md",
     "cs524.md",
     "Readme.md",
-    "Raman Spectrum Diagrams.md",
     "Pasted image 20240811131502.png",
     "Pasted image 20240811124627.png",
     "Pasted image 20240811124318.png",
