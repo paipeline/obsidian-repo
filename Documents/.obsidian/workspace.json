@@ -82,6 +82,18 @@
             }
           },
           {
+            "id": "324db317bc25a7b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning study/mobileNet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0126825fabf3bbd0",
             "type": "leaf",
             "state": {
@@ -94,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codereviewer/TODO.md",
+                "file": "Machine Learning study/mobileNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "codereviewer/TODO.md",
+                "file": "Machine Learning study/mobileNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "codereviewer/TODO.md"
+                "file": "Machine Learning study/mobileNet.md"
               }
             }
           },
@@ -240,12 +252,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ce46d11c620b93a6",
+  "active": "324db317bc25a7b2",
   "lastOpenFiles": [
+    "Machine Learning study/state dictionary.md",
+    "Machine Learning study/mobileNet.md",
+    "Machine Learning study/BERT relevance score.md",
+    "codereviewer/TODO.md",
+    "Machine Learning study",
     "codereviewer/Data Streamline.md",
     "codereviewer/Logs.md",
     "codereviewer/BUGS.md",
-    "codereviewer/TODO.md",
     "codereviewer/webhook_controller.md",
     "codereviewer/webhooks_listener.py.md",
     "codereviewer/codereviewer final.md",
