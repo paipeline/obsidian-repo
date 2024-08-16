@@ -148,7 +148,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -248,7 +249,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "324db317bc25a7b2",
+  "active": "dcbce7fdd24862b8",
   "lastOpenFiles": [
     "codereviewer/log organization.md",
     "codereviewer/codereviewer final.md",
