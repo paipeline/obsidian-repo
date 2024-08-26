@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codereviewer/codereviewer详细文档.md",
+                "file": "go basics/go basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codereviewer/codereviewer详细文档.md",
+                "file": "go basics/go basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "codereviewer/codereviewer详细文档.md",
+                "file": "go basics/go basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "codereviewer/codereviewer详细文档.md"
+                "file": "go basics/go basics.md"
               }
             }
           },
@@ -218,6 +218,10 @@
   },
   "active": "324db317bc25a7b2",
   "lastOpenFiles": [
+    "codereviewer/codereviewer详细文档.md",
+    "go basics/go basics.md",
+    "go basics",
+    "Untitled.md",
     "Pasted image 20240826115841.png",
     "Pasted image 20240826115825.png",
     "Pasted image 20240826115137.png",
@@ -227,7 +231,6 @@
     "Pasted image 20240826114629.png",
     "Pasted image 20240826113825.png",
     "codereviewer/event types.md",
-    "codereviewer/codereviewer详细文档.md",
     "codereviewer/webhooks_listener.py.md",
     "codereviewer/webhook_controller.md",
     "codereviewer/pushService.md",
@@ -237,7 +240,6 @@
     "codereviewer/Data Streamline.md",
     "Pasted image 20240826100205.png",
     "Pasted image 20240826100127.png",
-    "Pasted image 20240826094154.png",
     "codereviewer/TODO.md",
     "黑神话悟空调研.md",
     "ai2aidemo/AI2AI Demo.md",
