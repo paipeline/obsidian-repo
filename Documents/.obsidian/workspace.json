@@ -36,20 +36,12 @@
                     "type": "integrated",
                     "useWin32Conhost": true
                   },
-                  "serial": null
+                  "serial": {
+                    "columns": 68,
+                    "data": "/Users/a23675/.zshrc:19: no such file or directory: /opt/homebrew/bin/hyper\r\n/Users/a23675/.zshrc:20: no such file or directory: /opt/homebrew/bin/hyper\r\n/Users/a23675/.zshrc:21: no such file or directory: /opt/homebrew/bin/hyper\r\n(base) a23675@MacBook-Air-3 Documents % ",
+                    "rows": 46
+                  }
                 }
-              }
-            }
-          },
-          {
-            "id": "d6fbd271e83df9c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "codereviewer/log organization.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -59,19 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codereviewer/codereviewer final.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce46d11c620b93a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "codereviewer/TODO.md",
+                "file": "codereviewer/codereviewer详细文档.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,38 +63,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codereviewer/pushService.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e6a31189dfd4539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "黑神话悟空调研.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0126825fabf3bbd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "codereviewer/Logs.md",
+                "file": "codereviewer/codereviewer详细文档.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "黑神话悟空调研.md",
+                "file": "codereviewer/codereviewer详细文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "黑神话悟空调研.md",
+                "file": "codereviewer/codereviewer详细文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "黑神话悟空调研.md"
+                "file": "codereviewer/codereviewer详细文档.md"
               }
             }
           },
@@ -260,37 +216,41 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0e6a31189dfd4539",
+  "active": "324db317bc25a7b2",
   "lastOpenFiles": [
+    "Pasted image 20240826115841.png",
+    "Pasted image 20240826115825.png",
+    "Pasted image 20240826115137.png",
+    "Pasted image 20240826115012.png",
+    "Pasted image 20240826114917.png",
+    "Pasted image 20240826114736.png",
+    "Pasted image 20240826114629.png",
+    "Pasted image 20240826113825.png",
+    "codereviewer/event types.md",
+    "codereviewer/codereviewer详细文档.md",
+    "codereviewer/webhooks_listener.py.md",
+    "codereviewer/webhook_controller.md",
     "codereviewer/pushService.md",
-    "黑神话悟空调研.md",
-    "codereviewer/log organization.md",
-    "codereviewer/codereviewer final.md",
     "codereviewer/BUGS.md",
+    "codereviewer/Logs.md",
+    "codereviewer/log organization.md",
+    "codereviewer/Data Streamline.md",
+    "Pasted image 20240826100205.png",
+    "Pasted image 20240826100127.png",
+    "Pasted image 20240826094154.png",
+    "codereviewer/TODO.md",
+    "黑神话悟空调研.md",
     "ai2aidemo/AI2AI Demo.md",
     "ai2aidemo/output example.md",
     "ai2aidemo",
     "Machine Learning study/mobileNet.md",
     "Machine Learning study/state dictionary.md",
     "Machine Learning study/BERT relevance score.md",
-    "codereviewer/TODO.md",
     "Machine Learning study",
-    "codereviewer/Data Streamline.md",
-    "codereviewer/Logs.md",
-    "codereviewer/webhook_controller.md",
-    "codereviewer/webhooks_listener.py.md",
     "codereviewer",
     "Raman Spectrum Diagrams.md",
     "cs524.md",
     "Readme.md",
-    "Pasted image 20240811131502.png",
-    "Pasted image 20240811124627.png",
-    "Pasted image 20240811124318.png",
-    "Pasted image 20240811124314.png",
-    "Pasted image 20240811123445.png",
-    "Pasted image 20240811122546.png",
-    "Pasted image 20240811122545.png",
-    "Pasted image 20240811121742.png",
     "cs524"
   ]
 }
