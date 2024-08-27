@@ -36,11 +36,7 @@
                     "type": "integrated",
                     "useWin32Conhost": true
                   },
-                  "serial": {
-                    "columns": 68,
-                    "data": "/Users/a23675/.zshrc:19: no such file or directory: /opt/homebrew/bin/hyper\r\n/Users/a23675/.zshrc:20: no such file or directory: /opt/homebrew/bin/hyper\r\n/Users/a23675/.zshrc:21: no such file or directory: /opt/homebrew/bin/hyper\r\n(base) a23675@MacBook-Air-3 Documents % ",
-                    "rows": 46
-                  }
+                  "serial": null
                 }
               }
             }
