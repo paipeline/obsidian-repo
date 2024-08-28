@@ -50,7 +50,7 @@ ENV 变量
 2. 设置好webhook后运行: `uvicorn app.main:app --host 127.0.0.1 --port ·port number here· --reload`  
 3. 启动redis
 4. 启动mongodb
-5. 启动api代理: `litellm`
+5. 启动api代理: `litellm --model gpt-4o-mini`
 6. 测试webhook
 	![[Pasted image 20240828093904.png]]
 	如果有response 200说明运行正常, <webhook测试用例因没有与任何项目绑定可能不会触发llm或报错, 属于正常现象>
