@@ -44,6 +44,18 @@ ENV 变量
 2. 方案2
 	- 跑dockerfile
 	- ![[Pasted image 20240826114917.png]]
+#### **如何启动项目:** 
+- 内网穿透(optional), 确保port number与主程序对其
+1. 将服务器地址输入进gitlab webhook setting
+2. 设置好webhook后运行: `uvicorn app.main:app --host 127.0.0.1 --port ·port number here· --reload`  
+3. 启动redis
+4. 启动mongodb
+5. 启动api代理: `litellm`
+6. 测试webhook
+	![[Pasted image 20240828093904.png]]
+	如果有response 200说明运行正常, <webhook测试用例因没有与任何项目绑定可能不会触发llm或报错, 属于正常现象>
+5. 真实用例测试: push, comment 和 feedback
+
 ### 6. API接口
 
 - POST /webhook/gitlab - 触发条件: 当webhook检测到comment, push或 emoji事件被触发后, 会将当前的event通过此接口发送到服务器内做处理 - 详细格式在 event types.md
