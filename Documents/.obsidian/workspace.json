@@ -37,9 +37,9 @@
                     "useWin32Conhost": true
                   },
                   "serial": {
-                    "columns": 68,
-                    "data": "/Users/a23675/.zshrc:19: no such file or directory: /opt/homebrew/bin/hyper\r\n/Users/a23675/.zshrc:20: no such file or directory: /opt/homebrew/bin/hyper\r\n/Users/a23675/.zshrc:21: no such file or directory: /opt/homebrew/bin/hyper\r\n(base) a23675@MacBook-Air-3 Documents % ",
-                    "rows": 46
+                    "columns": 144,
+                    "data": "/Users/a23675/.zshrc:19: no such file or directory: /opt/homebrew/bin/hyper\r\n/Users/a23675/.zshrc:20: no such file or directory: /opt/homebrew/bin/hyper\r\n/Users/a23675/.zshrc:21: no such file or directory: /opt/homebrew/bin/hyper\r\n(base) a23675@MacBook-Air-3 Documents % lsc\r\nzsh: command not found: lsc\r\n(base) a23675@MacBook-Air-3 Documents % cd. .\r\nzsh: command not found: cd.\r\n(base) a23675@MacBook-Air-3 Documents % cd ..\r\n(base) a23675@MacBook-Air-3 iCloud~md~obsidian % ls\r\nDocuments\u001b[7CREADME.md\r\n(base) a23675@MacBook-Air-3 iCloud~md~obsidian % ",
+                    "rows": 55
                   }
                 }
               }
@@ -82,6 +82,18 @@
             }
           },
           {
+            "id": "d04e2b59adce3153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cs354.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3f156d8947c638d7",
             "type": "leaf",
             "state": {
@@ -106,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -172,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode 刷题计划/leetcode计划.md",
+                "file": "cs354.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode 刷题计划/leetcode计划.md",
+                "file": "cs354.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode 刷题计划/leetcode计划.md"
+                "file": "cs354.md"
               }
             }
           },
@@ -252,13 +264,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4bb2f5cfb6c22322",
+  "active": "d04e2b59adce3153",
   "lastOpenFiles": [
+    "cs354.md",
+    "leetcode 刷题计划/leetcode计划.md",
     "cs544/Big Data lecture 1.md",
     "cs544/Spark learning.md",
     "astron 103 lecture 1.md",
     "cs544",
-    "leetcode 刷题计划/leetcode计划.md",
     "astron 103",
     "go basics/go basics.md",
     "leetcode 刷题计划",
