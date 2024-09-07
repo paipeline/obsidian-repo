@@ -24,3 +24,25 @@ HDD and SSD -> extract a block of data(more than bytes)
 1. capacity
 2. throughput : how fast can deata be read/written
 3. latency of IO
+
+
+
+using one shell in another shell: security shell - e.g. using a shell from server access by my computer ssh shell.
+
+
+
+
+tail -n 20
+
+tail -f keep showing the tail
+
+
+
+
+ls -l  shows bytes - bits and permissions of files
+ls -a show hidden and normal files
+ls -hl human readable
+
+
++add permission 
+-quitar

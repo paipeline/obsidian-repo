@@ -26,3 +26,6 @@ https://www.educative.io/courses/coderust-hacking-the-coding-interview/implement
 
 
 
+[560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+这题要注意的是在build up mp的时候他是同时间需要update accum和counter. 
+counter之所以是 += mp[accum - k] 因为每当多加一个i就会多加很多subsequence, 把之前的subsequence也会考虑进去
